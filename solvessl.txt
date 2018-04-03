@@ -1,2 +1,2 @@
-yum update nss curl libcurl
+run:"yum update nss curl libcurl"
 centos6.4
